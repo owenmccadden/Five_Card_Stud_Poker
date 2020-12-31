@@ -1,4 +1,4 @@
-# Five_Card_Draw
+# Five Card Draw Poker
 This project is a console-based game of Five-Card Draw Poker. I am in the process of developing a GUI for the poker game.
 
 ## Summary
