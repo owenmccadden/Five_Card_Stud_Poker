@@ -8,7 +8,6 @@ public class DeckImpl implements Deck {
 	public DeckImpl() {
 		numLeftToDeal = 52;
 		cardDeck = new Card[numLeftToDeal];
-		
 		int cidx = 0;
 		for (Card.Suit s : Card.Suit.values()) {
 			for (int rank = 2; rank <= CardImpl.ACE; rank++) {
